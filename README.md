@@ -1,6 +1,10 @@
-<div align="center">
-<img src="assets/hero.svg" width="100%" alt="Hi, I'm Mahmoud Megahed – Backend .NET Developer" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mahmoud-Megahed1/Mahmoud-Megahed1/main/header.svg" alt="Hi, I'm Mahmoud Megahed" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mahmoud-Megahed1/Mahmoud-Megahed1/main/title.svg" alt=".NET Developer" />
+</p>
 
 
 ## 👋 About Me
@@ -22,7 +26,9 @@
 - SQL performance • indexes • query tuning • transactions • isolation levels
 
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mahmoud-Megahed1/Mahmoud-Megahed1/main/wave.svg" alt="wave animation" />
+</p>
 
 ## 📊 GitHub Overview  
 
@@ -31,6 +37,7 @@
 | ![Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-Megahed1&show_icons=true&theme=onedark) | ![Streak](https://github-readme-streak-stats.herokuapp.com?user=Mahmoud-Megahed1&theme=onedark) |
 
 ---
+
 
 
 ## 📈 Contribution Graph  
