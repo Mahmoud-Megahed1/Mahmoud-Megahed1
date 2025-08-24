@@ -1,11 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mahmoud-Megahed1/Mahmoud-Megahed1/main/header.svg" alt="Hi, I'm Mahmoud Megahed" />
-</p>
+<div align="center">
+<img src="main/header.svg" width="100%" alt="Hi, I'm Mahmoud Megahed – Backend .NET Developer" />
+</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mahmoud-Megahed1/Mahmoud-Megahed1/main/title.svg" alt=".NET Developer" />
-</p>
-
+<div align="center">
+<img src="main/title.svg" width="100%" alt=".NET Developer" />
+</div>
 
 ## 👋 About Me
 - 🎓 Bachelor of Computers & AI – Damietta University (2023 – 2027)
@@ -26,10 +25,9 @@
 - SQL performance • indexes • query tuning • transactions • isolation levels
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mahmoud-Megahed1/Mahmoud-Megahed1/main/wave.svg" alt="wave animation" />
-</p>
-
+<div align="center">
+<img src="main/wave.svg" width="100%" alt="wave animation" />
+</div>
 ## 📊 GitHub Overview  
 
 | ⚡ GitHub Stats | 🔥 Streak Stats |
