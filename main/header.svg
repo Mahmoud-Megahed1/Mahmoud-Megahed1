@@ -1,0 +1,53 @@
+<svg width="100%" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+<style>
+  .bg {
+    fill: #0f172a;
+  }
+  .title {
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 42px;
+    font-weight: bold;
+    fill: url(#grad);
+  }
+  .subtitle {
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 20px;
+    fill: #cbd5e1;
+  }
+</style>
+
+<!-- Background -->
+<rect width="900" height="220" class="bg" rx="20" />
+
+<!-- Gradient -->
+<defs>
+  <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#4f46e5">
+      <animate attributeName="stop-color" values="#4f46e5; #06b6d4; #4f46e5" dur="6s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#06b6d4">
+      <animate attributeName="stop-color" values="#06b6d4; #4f46e5; #06b6d4" dur="6s" repeatCount="indefinite"/>
+    </stop>
+  </linearGradient>
+</defs>
+
+<!-- Main Text -->
+<text x="50%" y="95" text-anchor="middle" class="title">
+  Hi, I'm Mahmoud Megahed
+</text>
+
+<!-- Subtitle -->
+<text x="50%" y="150" text-anchor="middle" class="subtitle">
+  .NET Developer | Software Engineer | Problem Solver | Tech Enthusiast
+</text>
+
+<!-- Orbiting Circle -->
+<circle cx="50%" cy="110" r="90" fill="none" stroke="#334155" stroke-width="1.5" stroke-dasharray="6,6">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 450 110" to="360 450 110" dur="20s" repeatCount="indefinite"/>
+</circle>
+
+<!-- Floating Dot -->
+<circle cx="50%" cy="20" r="6" fill="#22d3ee">
+  <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0 450 110" to="360 450 110" dur="10s" repeatCount="indefinite"/>
+</circle>
+</svg>
