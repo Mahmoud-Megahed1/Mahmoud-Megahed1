@@ -50,11 +50,4 @@
 <!-- Bonus banners -->
 <div align="center">
 
-
-<p align="center">
-  <img src="assets/glitch.svg" alt=".NET Developer" />
-</p>
-<div align="center">
-<img src="assets/wave.svg" width="100%" alt="Section divider" />
-</div>
 </div>
