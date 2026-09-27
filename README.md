@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Fullstack+.NET+Developer;Building+Scalable+Cloud+Web+APIs;Clean+Architecture+%26+Domain-Driven+Design;Competitive+Programmer+(ECPC+Finalist)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Fullstack+.NET+Developer;Building+Scalable+Cloud+Web+APIs;Clean+Architecture+%26+Domain-Driven+Design;COMPETITIVE+PROGRAMMING" alt="Typing SVG" />
 </div>
 
 ## 👋 About Me
@@ -42,9 +42,6 @@ Here is the chronological and architectural progression of my engineering work:
 
 ### 4️⃣ Personal Identity & Developer Portfolio
 - 🌐 **[portfolio](https://github.com/Mahmoud-Megahed1/portfolio)**: Personal developer portfolio built with React, TypeScript, Tailwind CSS, and Framer Motion. Live at [portfolio-mahmoudmegahed.vercel.app](https://portfolio-mahmoudmegahed.vercel.app/).
-
-### 5️⃣ The .NET Track & Upcoming Architecture (Next Milestone)
-- 🏗️ **Clean Architecture & Web API Systems**: Enterprise distributed systems, CQRS with MediatR, Microservices, and Redis distributed caching (currently building as part of our intensive .NET roadmap).
 
 ---
 
