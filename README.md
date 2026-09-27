@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mahmoud-Megahed1/Mahmoud-Megahed1/main/main/header.svg" width="100%" alt="Hi, I'm Mahmoud Megahed – Backend .NET Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,50&height=220&section=header&text=Mahmoud%20Mohamed%20Megahed&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Fullstack%20.NET%20Developer%20%7C%20Software%20Engineer&descSize=18&descAlignY=65" width="100%" alt="Mahmoud Mohamed Megahed Banner" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mahmoud-Megahed1/Mahmoud-Megahed1/main/main/title.svg" width="100%" alt=".NET Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Fullstack+.NET+Developer;Building+Scalable+Cloud+Web+APIs;Clean+Architecture+%26+Domain-Driven+Design;Competitive+Programmer+(ECPC+Finalist)" alt="Typing SVG" />
 </div>
 
 ## 👋 About Me
@@ -25,19 +25,43 @@ A modern, feature-rich enterprise e-commerce platform for gaming & electronics b
 
 ---
 
-## 📂 Featured Repositories
+## 📂 Repositories & Career Progression
 
-- 🧠 **[Competitive-Programming](https://github.com/Mahmoud-Megahed1/Competitive-Programming)**: 250+ Codeforces problem solutions, ACPC contest archives, and custom implementations of AVL Trees, Binary Heaps, Trie, Dijkstra, and BFS.
+Here is the chronological and architectural progression of my engineering work:
+
+### 1️⃣ Algorithmic Foundation & Competitive Programming
+- 🧠 **[Competitive-Programming](https://github.com/Mahmoud-Megahed1/Competitive-Programming)**: 250+ verified Codeforces problem solutions, ACPC contest archives, and custom implementations of AVL Trees, Binary Heaps, Trie, Dijkstra, and BFS with path reconstruction.
+
+### 2️⃣ DEPI & Government Capstone Milestones
+- 🎮 **[Arcade-Electronics](https://github.com/Mahmoud-Megahed1/Arcade-Electronics)**: The flagship ASP.NET Core (.NET 10) e-commerce platform built as a graduation and DEPI capstone.
+- 🎖️ **[arcade-depi-presentation](https://github.com/Mahmoud-Megahed1/arcade-depi-presentation)**: Interactive presentation deck & relational database architecture schema for the official DEPI evaluation.
+
+### 3️⃣ Production Fullstack & Multi-Stack Systems
 - 🚚 **[on-demand-delivery-platform](https://github.com/Mahmoud-Megahed1/on-demand-delivery-platform)**: Enterprise multi-vendor logistics platform built with Laravel, Firebase real-time status broadcasting, MongoDB, and Stripe/PayPal integration.
 - 🏥 **[care-clinic-headless-storefront](https://github.com/Mahmoud-Megahed1/care-clinic-headless-storefront)**: Headless Shopify e-commerce storefront built with React 19, Vite, Tailwind CSS, and full RTL support.
-- 🎖️ **[arcade-depi-presentation](https://github.com/Mahmoud-Megahed1/arcade-depi-presentation)**: Interactive presentation deck & relational database architecture schema for the DEPI Capstone.
+
+### 4️⃣ Personal Identity & Developer Portfolio
+- 🌐 **[portfolio](https://github.com/Mahmoud-Megahed1/portfolio)**: Personal developer portfolio built with React, TypeScript, Tailwind CSS, and Framer Motion. Live at [portfolio-mahmoudmegahed.vercel.app](https://portfolio-mahmoudmegahed.vercel.app/).
+
+### 5️⃣ The .NET Track & Upcoming Architecture (Next Milestone)
+- 🏗️ **Clean Architecture & Web API Systems**: Enterprise distributed systems, CQRS with MediatR, Microservices, and Redis distributed caching (currently building as part of our intensive .NET roadmap).
 
 ---
 
-## 🧰 Toolbox
+## 🧰 Toolbox (Current Stack & Active Roadmap)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,docker,mysql,postgres,mongodb,redis,react,tailwind,ts,cpp,git,github,postman,linux" alt="My Skills" />
+  <p><strong>Languages & Core Runtimes</strong></p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,ts,js,py,html,css" alt="Languages" />
+  
+  <p style="margin-top: 12px;"><strong>Frameworks, Web & UI (Current + Roadmap)</strong></p>
+  <img src="https://skillicons.dev/icons?i=react,angular,tailwind,bootstrap" alt="Frameworks" />
+  
+  <p style="margin-top: 12px;"><strong>Databases, Caching & Messaging</strong></p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,rabbitmq" alt="Databases and Messaging" />
+  
+  <p style="margin-top: 12px;"><strong>DevOps, Cloud & Engineering Tools</strong></p>
+  <img src="https://skillicons.dev/icons?i=docker,azure,linux,nginx,git,github,postman" alt="DevOps and Tools" />
 </div>
 
 ---
@@ -47,7 +71,7 @@ A modern, feature-rich enterprise e-commerce platform for gaming & electronics b
 - SQL Performance • Indexes • Query Tuning • Transactions • Isolation Levels
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mahmoud-Megahed1/Mahmoud-Megahed1/main/main/wave.svg" width="100%" alt="wave animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,50&height=100&section=footer" width="100%" alt="Footer Wave" />
 </div>
 
 ---
@@ -57,11 +81,11 @@ A modern, feature-rich enterprise e-commerce platform for gaming & electronics b
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Megahed1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+      <td align="center">
+        <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Mahmoud-Megahed1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Megahed1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+      <td align="center">
+        <img src="https://streak-stats.demolab.com/?user=Mahmoud-Megahed1&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
