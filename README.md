@@ -2,7 +2,7 @@
 
 Software Engineer specializing in backend development with ASP.NET Core, distributed systems, and database engineering. Competitive programmer and ECPC (Egyptian Collegiate Programming Contest) Finalist.
 
-[Portfolio](https://portfolio-mahmoudmegahed.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/mahmoud---megahed/) • [Email](mailto:mahmoudmaghed30@gmail.com)
+[Portfolio](https://portfolio-mahmoudmegahed.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/mahmoud---megahed/) • [Codeforces](https://codeforces.com/profile/mahmoud_megahed) • [Email](mailto:mahmoudmaghed30@gmail.com)
 
 ---
 
@@ -31,6 +31,11 @@ E-commerce platform for gaming hardware and electronics built with ASP.NET Core 
 - Layered MVC architecture with secure authentication, role-based authorization, and CSRF protection.
 - Complete order lifecycle processing, shopping cart state management, and administrative inventory dashboard.
 
+### [Competitive Programming](https://github.com/Mahmoud-Megahed1/Competitive-Programming)
+Algorithmic implementations, graph traversal routines, and contest solutions (ACPC / Codeforces) written in C++.
+- Verified track record of 250+ Accepted solutions on [Codeforces (mahmoud_megahed)](https://codeforces.com/profile/mahmoud_megahed).
+- Implementations of BFS path reconstruction, backtracking (N-Queens), number theory, and contest practice sets.
+
 ### [On-Demand Delivery Platform](https://github.com/Mahmoud-Megahed1/on-demand-delivery-platform)
 Multi-vendor logistics and order dispatching system built with Laravel, Firebase Real-Time Tracking, MongoDB, and payment gateway integration (Stripe, PayPal).
 - Dynamic order assignment, geofenced courier routing, and real-time order status broadcasting.
@@ -49,5 +54,6 @@ Interactive presentation deck and database schema architecture documentation pre
 
 - **Portfolio:** [portfolio-mahmoudmegahed.vercel.app](https://portfolio-mahmoudmegahed.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/mahmoud---megahed](https://www.linkedin.com/in/mahmoud---megahed/)
+- **Codeforces:** [codeforces.com/profile/mahmoud_megahed](https://codeforces.com/profile/mahmoud_megahed)
 - **Khamsat:** [khamsat.com/user/mahmoudmegahedd](https://khamsat.com/user/mahmoudmegahedd)
 - **Email:** mahmoudmaghed30@gmail.com
