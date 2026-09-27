@@ -8,22 +8,19 @@
 
 ## 👋 About Me
 - 🎓 Bachelor of Computers & AI – Damietta University (2023 – 2027)
-- 💻 Backend-focused: C#, ASP.NET Core, SQL Server, EF Core
-- 🧠 Into Problem Solving, Data Structures, System Design
-- ⚙️ Learning DevOps basics next
-- 🏆 ECPC Team Member (2024 – 2025)
+- 💻 Backend-focused: C#, ASP.NET Core, SQL Server, EF Core, Clean Architecture
+- 🧠 Competitive Programmer & Problem Solver (Advanced Data Structures & Algorithms)
+- 🏆 ECPC Finalist (Egyptian Collegiate Programming Contest)
 - 💼 Full Stack .NET Intern @ DEPI (2025 – 2026)
+- 🌐 Live Portfolio: [portfolio-mahmoudmegahed.vercel.app](https://portfolio-mahmoudmegahed.vercel.app/)
 
 ## 🧰 Toolbox
 
-![My Skills](https://skillicons.dev/icons?i=cs,cpp,py,js,dotnet,html,css,bootstrap,mysql,mongodb,git,github,azure,windows,linux)
-
-
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,docker,mysql,postgres,mongodb,git,github,cpp,py,ts,react,tailwind,windows,linux)
 
 ## 📡 Focus Areas
-- Clean architecture • async/await • REST APIs • Caching • Logging • CI/CD basics
-- SQL performance • indexes • query tuning • transactions • isolation levels
-
+- Clean Architecture • CQRS • async/await • REST APIs • Redis Caching • Serilog • CI/CD
+- SQL Performance • Indexes • Query Tuning • Transactions • Execution Plans
 
 <div align="center">
 <img src="main/wave.svg" width="100%" alt="wave animation" />
@@ -36,16 +33,15 @@
 
 ---
 
-
-
 ## 📈 Contribution Graph  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud-Megahed1&theme=react-dark)
 
 ## 📬 Connect with Me  
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-mahmoudmegahed.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud---megahed/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudmaghed30@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoudmegahedd)
-[![Services](https://img.shields.io/badge/Khamsat-FF9900?style=for-the-badge&logo=freelancer&logoColor=white)](https://khamsat.com/user/mahmoudmegahedd)
+[![Khamsat](https://img.shields.io/badge/Khamsat-FF9900?style=for-the-badge&logo=freelancer&logoColor=white)](https://khamsat.com/user/mahmoudmegahedd)
 
 <!-- Bonus banners -->
 <div align="center">
