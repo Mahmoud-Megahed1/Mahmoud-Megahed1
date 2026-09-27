@@ -14,6 +14,13 @@
 - 💼 Full Stack .NET Intern @ DEPI (2025 – 2026)
 - 🌐 Live Portfolio: [portfolio-mahmoudmegahed.vercel.app](https://portfolio-mahmoudmegahed.vercel.app/)
 
+## 🚀 Featured Project
+
+### 🎮 [Arcade Electronics — E-Commerce Platform](https://github.com/Mahmoud-Megahed1/Arcade-Electronics)
+A modern, feature-rich enterprise e-commerce platform for gaming & electronics built with **ASP.NET Core (.NET 10.0)**, **Entity Framework Core**, and **SQL Server**.
+- **Core Capabilities:** Real-time Shopping Cart, Order Lifecycle Tracking, Dual Theme (Cyberpunk Light/Dark), Comprehensive Admin Panel (Inventory, Reports, Shipping).
+- **Architecture:** Layered Architecture, Repository Pattern, ASP.NET Core Identity Authentication & Authorization, Seeded Migrations.
+
 ## 🧰 Toolbox
 
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,docker,mysql,postgres,mongodb,git,github,cpp,py,ts,react,tailwind,windows,linux)
