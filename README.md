@@ -9,7 +9,7 @@
 ## 👋 About Me
 - 🎓 **Education:** Bachelor of Computers & AI – Damietta University (2023 – 2027)
 - 💻 **Backend Focus:** C#, ASP.NET Core (.NET 8/10), SQL Server, Entity Framework Core, Clean Architecture
-- 🧠 **Problem Solving:** Competitive Programmer & Problem Solver (250+ Accepted on Codeforces)
+- 🧠 **Problem Solving:** Competitive Programmer & Problem Solver (500+ Accepted on Codeforces)
 - 🏆 **Achievements:** ECPC Finalist / Team Member (Egyptian Collegiate Programming Contest)
 - 💼 **Programs:** Full Stack .NET Intern @ Digital Egypt Pioneers Initiative (DEPI / MCIT)
 - 🌐 **Live Portfolio:** [portfolio-mahmoudmegahed.vercel.app](https://portfolio-mahmoudmegahed.vercel.app/)
@@ -30,7 +30,7 @@ A modern, feature-rich enterprise e-commerce platform for gaming & electronics b
 Here is the chronological and architectural progression of my engineering work:
 
 ### 1️⃣ Algorithmic Foundation & Competitive Programming
-- 🧠 **[Competitive-Programming](https://github.com/Mahmoud-Megahed1/Competitive-Programming)**: 250+ verified Codeforces problem solutions, ACPC contest archives, and custom implementations of AVL Trees, Binary Heaps, Trie, Dijkstra, and BFS with path reconstruction.
+- 🧠 **[Competitive-Programming](https://github.com/Mahmoud-Megahed1/Competitive-Programming)**: 500+ verified Codeforces problem solutions, ACPC contest archives, and custom implementations of AVL Trees, Binary Heaps, Trie, Dijkstra, and BFS with path reconstruction.
 
 ### 2️⃣ DEPI & Government Capstone Milestones
 - 🎮 **[Arcade-Electronics](https://github.com/Mahmoud-Megahed1/Arcade-Electronics)**: The flagship ASP.NET Core (.NET 10) e-commerce platform built as a graduation and DEPI capstone.
